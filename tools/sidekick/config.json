@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    {
+      "id": "aem-eds-experimentation",
+      "titleI18n": {
+        "en": "Exp Test"
+      },
+      "isPalette": true,
+      "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width: 800px; height: calc(100vh - 60px)",
+      "environments": [
+        "edit"
+      ],
+      "passConfig": true,
+      "passReferrer": true,
+      "url": "https://experience.adobe.com/solutions/devx-services-experimentation-widget-poc/static-assets/resources/embed.html?route=sample_route"
+    }
+  ]
+}
